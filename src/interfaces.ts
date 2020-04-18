@@ -1,0 +1,5 @@
+interface IStore {}
+
+export {
+  IStore
+};
