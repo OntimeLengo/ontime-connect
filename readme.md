@@ -1,6 +1,6 @@
 <h1>Ontime Connect</h1>
 
-What is an Ontime Component? There are the Decorator and Store, who are able to help you not to use complex functionality as Redux or MobX. Sometimes there is a need for small and simple functionality that covers the same functionality form Redux or MobX. 
+What is an Ontime Connect? There are the Decorator and Store, who are able to help you not to use complex functionality as Redux or MobX. Sometimes there is a need for small and simple functionality that covers the same functionality form Redux or MobX. 
 
 The store is used to help you manage application state container.
 
